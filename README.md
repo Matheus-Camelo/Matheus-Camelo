@@ -17,7 +17,6 @@ I enjoy all programming fields that include **Data Science**, **Software Enginee
 - 🔭 I'm currently working as DS at <a href="https://www.linkedin.com/company/petroleo-ipiranga/mycompany/verification/" target="blank">Ipiranga</a>
 - 📫 Reach me out! **mtcamelow@gmail.com**
 - 📄 More about me and my experiences here: <a href="https://github.com/Matheus-Camelo" target="blank">Resume</a>
-https://www.linkedin.com/company/petroleo-ipiranga/mycompany/verification/
 
 <!--
 ### Programming Languages & Frameworks
