@@ -4,7 +4,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-### You can also find me here!
+### Connect with me here!
 <a href="https://www.linkedin.com/in/mtcamelo/">
   <img alt="Matheus Camelo LinkedIn" width="30px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
@@ -14,10 +14,10 @@ I'm deeply involved with **Data Science** at the moment.
 <br>
 I enjoy all programming fields that include **Data Science**, **Software Engineering** & **Computer Science**.
 
-- 🔭 I'm currently working as DS at Ipiranga
+- 🔭 I'm currently working as DS at <a href="https://www.linkedin.com/company/petroleo-ipiranga/mycompany/verification/" target="blank">Ipiranga</a>
 - 📫 Reach me out! **mtcamelow@gmail.com**
 - 📄 More about me and my experiences here: <a href="https://github.com/Matheus-Camelo" target="blank">Resume</a>
-
+https://www.linkedin.com/company/petroleo-ipiranga/mycompany/verification/
 
 <!--
 ### Programming Languages & Frameworks
