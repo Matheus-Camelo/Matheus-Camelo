@@ -12,7 +12,7 @@
 ### About me:
 I'm deeply involved with **Data Science** at the moment.
 <br>
-I enjoy all programming fields that include **Data Science**, **Software Engineering** & **Computer Science**.
+I enjoy all programming fields that include **Data Science**, **Software Engineering** & **Web Development**.
 
 - 🔭 I'm currently working as DS at <a href="https://www.linkedin.com/company/petroleo-ipiranga/mycompany/verification/" target="blank">Ipiranga</a>
 - 📫 Reach me out! **mtcamelow@gmail.com**
