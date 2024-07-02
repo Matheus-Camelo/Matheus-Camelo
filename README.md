@@ -10,9 +10,9 @@
 </a>
 
 ### About me:
-I'm deeply involved with **Data Science** at the moment.
+I'm deeply involved with **Data Science & Web Development** at the moment.
 <br>
-I enjoy all programming fields that include **Data Science**, **Software Engineering** & **Web Development**.
+I enjoy all programming fields that include **Web Development**, **Data Science** & **Software Engineering**.
 
 - 🔭 I'm currently working as DS at <a href="https://www.linkedin.com/company/petroleo-ipiranga/mycompany/verification/" target="blank">Ipiranga</a>
 - 📫 Reach me out! **mtcamelow@gmail.com**
