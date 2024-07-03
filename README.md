@@ -10,7 +10,7 @@
 </a>
 
 ### About me:
-I'm deeply involved with **Data Science & Web Development** at the moment.
+I'm deeply involved with **Web Development & *Data Science* at the moment.
 <br>
 I enjoy all programming fields that include **Web Development**, **Data Science** & **Software Engineering**.
 
