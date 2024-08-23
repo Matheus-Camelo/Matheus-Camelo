@@ -17,9 +17,9 @@ I enjoy all programming fields that include **Software Engineering**,
 <br>
 **Web Development** & **Data Science**.
 
-- 🔭 I'm currently working as **Front-End Developer** at <a href="https://www.linkedin.com/company/shakersagencia/" target="blank">Shakers</a> <br>
+- 🔭 I'm currently working as **Front-End Developer** at <a href="https://www.linkedin.com/company/shakersagencia/" target="blank">**Shakers**</a> <br>
 - 📫 Reach me out! **mtcamelow@gmail.com** <br>
-- 📄 More about me and my experiences here: <a href="https://github.com/Matheus-Camelo" target="blank">Resume</a> <br>
+- 📄 More about me and my experiences here: <a href="https://github.com/Matheus-Camelo" target="blank">**Resume**</a> <br>
 
 <!--
 ### Programming Languages & Frameworks
