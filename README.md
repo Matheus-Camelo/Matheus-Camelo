@@ -13,7 +13,8 @@
 I'm deeply involved with **Full-Stack Development** at the moment.
 <br>
 
-I enjoy all programming fields that include **Software Engineering**, **Web Development** & **Data Science**.
+I enjoy all programming fields that include **Software Engineering**, 
+**Web Development** & **Data Science**.
 
 <br>
 - 🔭 I'm currently working as Front-End Developer at <a href="https://www.linkedin.com/company/shakersagencia/" target="blank">Shakers</a>
