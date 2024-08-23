@@ -13,7 +13,8 @@
 I'm deeply involved with **Full-Stack Development** at the moment.
 <br>
 
-I enjoy all programming fields that include **Software Engineering**, 
+I enjoy all programming fields that include **Software Engineering**,
+<br>
 **Web Development** & **Data Science**.
 
 <br>
