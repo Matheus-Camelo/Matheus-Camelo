@@ -10,11 +10,11 @@
 </a>
 
 ### About me:
-I'm deeply involved with **Web Development** & **Data Science** at the moment.
+I'm deeply involved with **Full-Stack Development** & **Data Science** at the moment.
 <br>
-I enjoy all programming fields that include **Web Development**, **Data Science** & **Software Engineering**.
+I enjoy all programming fields that include **Web Development**, **Software Engineering** & **Data Science**.
 
-- 🔭 I'm currently working as DS at <a href="https://www.linkedin.com/company/petroleo-ipiranga/mycompany/verification/" target="blank">Ipiranga</a>
+- 🔭 I'm currently working as Front-End Developer at <a href="https://www.linkedin.com/company/shakersagencia/" target="blank">Shakers</a>
 - 📫 Reach me out! **mtcamelow@gmail.com**
 - 📄 More about me and my experiences here: <a href="https://github.com/Matheus-Camelo" target="blank">Resume</a>
 
