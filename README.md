@@ -10,7 +10,7 @@
 </a>
 
 ### About me:
-I'm deeply involved with **Data Science** & <br> **Full-Stack Development** at the moment.
+I'm deeply involved with **Data Science** & **Full-Stack Development** <br>  at the moment.
 <br>
 
 I enjoy all programming fields that include **Software Engineering**,
