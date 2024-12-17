@@ -13,9 +13,9 @@
 I'm deeply involved with **Full-Stack Development** & **Data Science** <br> at the moment.
 <br>
 
-I enjoy all programming fields that include **Software Engineering**,
+I enjoy all programming fields that include **Web Development**,
 <br>
-**Web Development** & **Data Science**.
+**Software Engineering** & **Data Science**.
 
 - 📫 Reach me out! **mtcamelow@gmail.com** <br>
 - 📄 More about me and my experiences here: <a href="https://github.com/Matheus-Camelo" target="blank">**Resume**</a> <br>
