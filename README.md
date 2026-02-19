@@ -18,7 +18,7 @@ I enjoy all programming fields that include **Web Development**,
 **Software Engineering** & **Data Science**.
 
 - 📫 Reach me out! **mtcamelow@gmail.com** <br>
-- 📄 More about me and my experiences here: <a href="https://github.com/Matheus-Camelo" target="blank">**Resume**</a> <br>
+- 📄 More about me and my experiences here: <a href="https://drive.google.com/file/d/1bK-Ygs2cb65Qw72P77Q6UDuRzLGK64RK/view" target="blank">**Resume**</a> <br>
 
 <!--
 ### Programming Languages & Frameworks
